@@ -1,4 +1,4 @@
-# PWFusion_AS3935_I2C
+# AS3935-for-ESP8266
 ![SEN-39001 FRONT](http://www.playingwithfusion.com/include/getimg.php?imgid=1104)
 ![SEN-39001 ISO](http://www.playingwithfusion.com/include/getimg.php?imgid=1105)
 
